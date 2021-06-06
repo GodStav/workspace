@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Some dois numeros inteiros !
+          Some dois números inteiros !
         </p>
         <div className="Sum">
           <p className="Info">Insira o primeiro valor:</p>
